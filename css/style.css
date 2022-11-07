@@ -1,0 +1,91 @@
+.fullpage
+{
+	background-color: grey;
+}
+
+.headings
+{
+	background-color: blue;
+	color: yellow;
+
+	align-content: center;
+}
+
+.headings h3
+{
+	border: 5px dotted yellow;
+	padding: 10px;
+	border-radius: 15px;
+}
+
+.container
+{
+	background-color: yellow;
+}
+
+.button
+{
+	color: red;
+	border-width: inherit;
+	border: 5px  black;
+	border-radius: 15px;
+	padding: 10px;
+}
+.para
+{
+	color: yellow;
+}
+
+.withpage
+{
+	background-color: darkgrey;
+}
+
+.withcontent
+{
+	color: yellow;
+}
+
+.withrepage
+{
+	color: yellow;
+	background-color: darkgrey;
+
+}
+
+.balpage
+{
+	color: yellow;
+	background-color: darkgrey;
+}
+
+.pinsuccesspage
+{
+	color: yellow;
+	background-color: darkgrey;
+}
+
+.pinpage
+{
+	color: yellow;
+	background-color: darkgrey;
+}
+
+.cashdepopage
+{
+	color: yellow;
+	background-color: darkgrey;
+}
+
+.cashdeposuccesspage
+{
+	color: yellow;
+	background-color: darkgrey;
+}
+
+.image
+{
+	height: 800px;
+	width: 800px;
+	opacity: 0.7;
+}
